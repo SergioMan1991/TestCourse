@@ -13,3 +13,4 @@ if list_str[-3] == '!':
     print(list_str[0:-2])
 else:
     print(list_str)
+print('Hello World')
